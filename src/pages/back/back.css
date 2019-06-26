@@ -1,0 +1,39 @@
+page-back {
+    #back {
+        background-image: linear-gradient(rgb(107, 231, 231), rgba(153, 103, 160, 0.007) , rgba(156, 38, 192, 0.753)),url(https://images.pexels.com/photos/1544880/pexels-photo-1544880.jpeg?auto=format%2Ccompress&cs=tinysrgb&h=750&w=1260);
+        height: 100%;
+        width:100%;
+        
+    }
+
+    #back1 {
+        background: linear-gradient(rgba(233, 243, 243, 0.644), rgba(246, 242, 247, 0.74) , rgba(225, 214, 230, 0.322));
+        height: 30px;
+        color: honeydew;
+        padding-top:80px;
+        
+    }
+
+   
+    .avatar {
+        vertical-align: middle; 
+        width: 200px;
+        height: 200px;
+        border-radius: 50%;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        margin-bottom: 80px;
+        radius:100%;
+      }
+   .content{
+    background:linear-gradient(rgb(107, 231, 231), rgb(203, 193, 206) , rgba(163, 30, 207, 0.932));  
+   }
+ footer{
+    background:linear-gradient(rgba(226, 238, 238, 0.479), rgba(246, 242, 247, 0.74) , rgba(234, 223, 238, 0.616));
+    height: 30px;
+      
+ }
+
+ 
+}
